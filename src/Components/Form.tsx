@@ -63,7 +63,7 @@ const Form = () => {
       })
       .catch(error => {
         console.error(error);
-        alert("Pleae fill missing fields!")
+        alert("Please fill missing fields!")
       });
   };
 
